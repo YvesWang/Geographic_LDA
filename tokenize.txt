@@ -1,0 +1,8 @@
+1. lower
+2. keep # and @
+3. remove other punct
+4. remove stop words (big dicitionary)
+5. remove nonalphabet
+6. remove extreme short/long texts(min=3,max=30)
+7. remove extreme high/low frequency
+
